@@ -27,7 +27,8 @@
 meta-evolutionary-framework/
 ├── README.md                                      # 项目主介绍（中英双语）
 ├── LICENSE                                        # Apache 2.0 许可证
-├── self-referential-quantum-channels-emergent-cosmology.md  # 主要研究论文
+├── self-referential-quantum-channels-emergent-cosmology.md  # 主要研究论文（英文版）
+├── 自参考量子通道：涌现宇宙学的概念框架.md               # 主要研究论文（中文版）
 └── IFLOW.md                                       # 本文件
 ```
 
@@ -37,10 +38,11 @@ meta-evolutionary-framework/
 - 项目主介绍文档
 - 中英双语
 - 包含项目介绍、研究背景、宇宙模型说明
-- 提供主要论文的链接
+- 提供主要论文的链接（中英文版本）
+- 包含研究者声明：个人研究爱好者，不寻求机构背书
 
 ### self-referential-quantum-channels-emergent-cosmology.md
-- 主要研究论文：自适应全息宇宙学（Adaptive Holographic Cosmology, AHC）
+- 主要研究论文（英文版）：自适应全息宇宙学（Adaptive Holographic Cosmology, AHC）
 - 论文结构：
   - 摘要（Abstract）
   - 引言（Introduction）
@@ -67,6 +69,12 @@ meta-evolutionary-framework/
 - 黑洞信息回波延迟：Δt_echo ≈ t_pl ln(S_BH)
 - 空间精细结构常数梯度：|∇α/α| ≲ 10⁻⁵ Mpc⁻¹
 
+### 自参考量子通道：涌现宇宙学的概念框架.md
+- 主要研究论文（中文版）：与英文版内容完全对应
+- 自适应全息宇宙学（Adaptive Holographic Cosmology, AHC）
+- 提供中文读者更友好的阅读体验
+- 包含完整的理论推导和现象学预测
+
 ### LICENSE
 - Apache License 2.0 开源许可证
 - 允许自由使用、修改和分发
@@ -92,12 +100,14 @@ meta-evolutionary-framework/
 
 ### 阅读顺序
 1. 首先阅读 `README.md` 了解项目概况
-2. 然后阅读 `self-referential-quantum-channels-emergent-cosmology.md` 了解详细理论
+2. 根据语言偏好选择：
+   - 英文读者：阅读 `self-referential-quantum-channels-emergent-cosmology.md`
+   - 中文读者：阅读 `自参考量子通道：涌现宇宙学的概念框架.md`
 
 ### 文档格式
 - 使用 Markdown 格式
 - 数学公式使用 LaTeX 语法
-- 中英双语混合
+- 中英双语版本并行提供
 
 ### 研究状态
 - 论文将分阶段提交
@@ -121,6 +131,7 @@ meta-evolutionary-framework/
 2. **计算限制:** 直接数值模拟遇到指数墙，需要量子计算资源
 3. **参数不确定性:** 参数集 {Λ, C_crit, σ, ξ} 欠约束，需要贝叶斯先验分析
 4. **非唯一性:** 可能存在其他自参考构造产生类似现象学
+5. **语言版本:** 项目提供中英文双语版本，内容完全对应，读者可根据语言偏好选择
 
 ## 贡献者信息
 
@@ -153,3 +164,12 @@ A: 没有，所有结果来自分析计算和理论估计。
 
 **Q: 如何验证这些理论？**
 A: 需要未来的量子计算资源和数值模拟，以及观测测试。
+
+**Q: 中英文版本有什么区别？**
+A: 中英文版本内容完全对应，只是语言不同。英文版适合国际学术交流，中文版更适合中文读者阅读。
+
+**Q: 论文是否已发表？**
+A: 论文将分阶段提交，当前为概念框架和理论推导阶段。
+
+**Q: 这个框架的主要创新点是什么？**
+A: 主要创新点在于将宇宙建模为自参考量子通道系统，提出了信息论视角的宇宙学框架，并为量子计算验证提供了具体路线图。
