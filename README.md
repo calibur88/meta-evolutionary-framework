@@ -9,5 +9,5 @@
 Independent research enthusiast. No institutional endorsement sought. Published here. The manuscript will be submitted in stages.
 
 # 宇宙模型(Universe model)
-[自参考量子通道涌现宇宙学]()
+[自参考量子通道：涌现宇宙学的概念框架](./自参考量子通道：涌现宇宙学的概念框架.md)
 [self-referential-quantum-channels-emergent-cosmology](./self-referential-quantum-channels-emergent-cosmology.md)
