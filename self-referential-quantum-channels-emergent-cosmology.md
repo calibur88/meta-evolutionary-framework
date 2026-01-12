@@ -60,8 +60,6 @@ $$
 
 We have not performed these simulations. All results below are derived from analytical approximations and scaling arguments.
 
-This limitation is discussed transparently in Section 5.1.
-
 ---
 
 ## 3. Cosmological Implications

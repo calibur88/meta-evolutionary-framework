@@ -9,4 +9,5 @@
 Independent research enthusiast. No institutional endorsement sought. Published here. The manuscript will be submitted in stages.
 
 # 宇宙模型(Universe model)
-[ahc-framework](./self-referential-quantum-channels-emergent-cosmology.md)
+[自参考量子通道涌现宇宙学]()
+[self-referential-quantum-channels-emergent-cosmology](./self-referential-quantum-channels-emergent-cosmology.md)
