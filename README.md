@@ -1,5 +1,5 @@
 # Adaptive Dynamic Iteration Framework
-自适应动态迭代框架（ADIF）(Adaptive Dynamic Iteration Framework (ADIF))
+自适应动态迭代框架(Adaptive Dynamic Iteration Framework)
 
 ## 说明
 个人研究爱好者。不打算寻求机构背书，特在此发布。论文将分阶段提交。  
