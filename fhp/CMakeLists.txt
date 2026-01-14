@@ -9,7 +9,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 find_package(OpenMP REQUIRED)
 
 # 3. 定义可执行文件
-add_executable(fhp_bench main.cpp)
+add_executable(fhp_bench fhp-c.cpp)
 
 # 4. 针对 Windows (MSVC) 的深度性能与兼容性优化
 if(MSVC)

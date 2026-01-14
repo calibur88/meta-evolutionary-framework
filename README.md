@@ -14,6 +14,8 @@ Personal research enthusiast. I cannot find anyone to endorse me, so I am publis
 
 ## 核心算法实现 / Core Algorithms
 - 详见fhp目录 / See the fhp directory for details.
+Note:请自行修改cmakelists文件,中文是fhp-c
+Note: Please modify the cmakelists file yourself, English is fhp-e.
 
 ## 全息宇宙模型 / Holographic Universe Model
 
