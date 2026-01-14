@@ -12,6 +12,9 @@ Personal research enthusiast. I cannot find anyone to endorse me, so I am publis
 - [ADIF-自适应动态迭代框架：收敛模式谱系与工程实践初探](./ADIF-自适应动态迭代框架：收敛模式谱系与工程实践初探.md)
 - [ADIF-Adaptive-Dynamic-Iteration-Framework-Convergence-Mode-Lineage-and-Engineering-Practice](./ADIF-Adaptive-Dynamic-Iteration-Framework-Convergence-Mode-Lineage-and-Engineering-Practice.md)
 
+## 核心算法实现 / Core Algorithms
+- 详见fhp目录 / See the fhp directory for details.
+
 ## 全息宇宙模型 / Holographic Universe Model
 
 - [HFC-全息反馈宇宙学：基于边界动力学的循环宇宙模型](./HFC-全息反馈宇宙学：基于边界动力学的循环宇宙模型.md)
