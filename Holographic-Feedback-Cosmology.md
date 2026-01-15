@@ -235,5 +235,4 @@ The CMB logarithmic oscillations and sound speed deviations predicted by HFC wil
 ---
 
 ## Conflict of Interest Statement
-
 No commercial interests are involved.

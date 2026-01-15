@@ -1,4 +1,4 @@
-# Adaptive Dynamic Iteration Framework (ADIF): Convergence Mode Lineage and Engineering Practice
+# Adaptive Dynamic Iteration Framework: Convergence Mode Lineage and Engineering Practice
 
 **Author Information**
 
