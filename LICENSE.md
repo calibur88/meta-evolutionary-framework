@@ -193,14 +193,10 @@ The Author reserves the right to update the Agreement, but:
 
 | 项目信息 | 内容 |
 |----------|------|
-| **作者** | calibur88 |
-| Author | calibur88 |
-| **项目链接** | https://github.com/calibur88/Adaptive-Holographic-Dynamics |
-| Project Link | https://github.com/calibur88/Adaptive-Holographic-Dynamics |
-| **ORCID/学术标识** | 0009-0003-6134-3736 |
-| ORCID/Academic ID | 0009-0003-6134-3736 |
-| **作者联系邮箱** | jiuxin303@qq.com |
-| Author Contact Email | jiuxin303@qq.com |
+| **作者/Author** | calibur88 |
+| **项目链接/Project Link** | https://github.com/calibur88/Adaptive-Holographic-Dynamics |
+| **学术标识/ORCID** | 0009-0003-6134-3736 |
+| **作者联系邮箱/Author Contact Email** | jiuxin303@qq.com |
 ---
 
 ## 协议生效确认 | Agreement Effectiveness Confirmation
